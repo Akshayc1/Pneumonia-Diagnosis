@@ -14,4 +14,4 @@ False negative has to be intuitively minimized because falsely diagnosing a pati
 deal than falsely diagnosing a healthy person as a pneumonia patient which is our major concern . That is why we are making this model .
 To reduce the mistakes done by doctors accidentally .
 
-You can download 'model.h5 file from my google drive : https://drive.google.com/open?id=1-8FVKSNeDXzsQ3QoyJKS19MRH57X4E75
+You can download 'model.h5' file from my google drive : https://drive.google.com/open?id=1-8FVKSNeDXzsQ3QoyJKS19MRH57X4E75

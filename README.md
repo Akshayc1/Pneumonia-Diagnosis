@@ -1,5 +1,5 @@
 NOTE : Sometimes github fails to render the ipynb notebooks, I believe that is some temporary (and recurring) issue with their backend.
-Try to open that notebook using nbviewer online, you don't need to install it. Just copy the jupytet notebook URL to  below link.
+Try to open that notebook using nbviewer online, you don't need to install it. Just copy the jupyter notebook URL to  below link.
 
 Link :  "https://nbviewer.jupyter.org/"
 

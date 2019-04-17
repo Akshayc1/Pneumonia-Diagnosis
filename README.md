@@ -25,4 +25,11 @@ To reduce the mistakes done by doctors accidentally .
 You can download 'model.h5' file from my google drive : https://drive.google.com/open?id=1-8FVKSNeDXzsQ3QoyJKS19MRH57X4E75
 
 
+Web Application Template: 
+
+
+![Capture](https://user-images.githubusercontent.com/39961205/56297201-8f88e400-614d-11e9-8ea8-3004cc0869a1.PNG)
+
+
+
 
